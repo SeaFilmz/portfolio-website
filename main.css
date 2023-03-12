@@ -186,7 +186,8 @@ li {
   h1 {
     font-size: 3rem;
   }
-  .css3Logo {
+  .css3Logo,
+  .contactForm {
     margin-left: 1rem;
   }
 }
