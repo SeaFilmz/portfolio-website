@@ -119,6 +119,20 @@ li {
   margin: 0 auto;
 }
 
+.logo {
+  display: inline-block;
+  margin-left: 0;
+}
+
+.cssLogo {
+  width: 70.5%;
+}
+
+/*.logo {
+  display: inline-block;
+  margin: 0 auto 1.25rem auto;
+}*/
+
 .contactButton {
   text-align: center;
 }
@@ -165,5 +179,14 @@ li {
 @media screen and (max-width: 20.3125rem) {
   h1 {
     font-size: 3rem;
+  }
+}
+
+@media screen and (max-width: 20.3125rem) {
+  h1 {
+    font-size: 3rem;
+  }
+  .css3Logo {
+    margin-left: 1rem;
   }
 }
