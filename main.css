@@ -124,6 +124,10 @@ li {
   margin-left: 0;
 }
 
+.css3Logo {
+  margin-left: 1rem;
+}
+
 .cssLogo {
   width: 70.5%;
 }
@@ -189,5 +193,11 @@ li {
   .css3Logo,
   .contactForm {
     margin-left: 1rem;
+  }
+}
+
+@media screen and (max-width: 19.8125rem) {
+  .typescriptLogo {
+    display: block;
   }
 }
