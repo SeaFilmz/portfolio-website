@@ -119,6 +119,10 @@ li {
   margin: 0 auto;
 }
 
+.skillsHead {
+  text-align: center;
+}
+
 .logo {
   display: inline-block;
   margin-left: 0;
@@ -197,14 +201,21 @@ li {
   h1 {
     font-size: 3rem;
   }
-  .css3Logo,
   .contactForm {
     margin-left: 1rem;
   }
 }
 
 @media screen and (max-width: 19.8125rem) {
-  .typescriptLogo {
+  .skills {
+    margin-left: 2rem;
+  }
+  .typescriptLogo,
+  .css3Logo {
     display: block;
+  }
+  .css3Logo {
+    width: 50%;
+    margin-left: 1.25rem;
   }
 }
