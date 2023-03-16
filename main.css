@@ -69,15 +69,6 @@ li {
   background: #9e2a2f;
 }
 
-.mainServices {
-  display: flex;
-  gap: 5rem;
-}
-
-.service {
-  font-size: 1.5rem;
-}
-
 #goToExperience {
   margin: 1rem 0 0 0;
 }
@@ -173,14 +164,6 @@ li {
 
 .twitchLogoImage {
   width: 3.6%;
-}
-
-@media screen and (max-width: 40.625rem) {
-  .mainServices {
-    flex-direction: column;
-    text-align: center;
-    gap: 0.5rem;
-  }
 }
 
 @media screen and (max-width: 31.25rem) {
