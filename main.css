@@ -81,6 +81,10 @@ li {
   text-align: center;
 }
 
+.projectScreenshot {
+  padding-top: 0.625rem;
+}
+
 .mcflyDescription {
   text-align: center;
 }
