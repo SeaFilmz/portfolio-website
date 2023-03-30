@@ -37,6 +37,10 @@ header {
   text-align: center;
 }
 
+nav {
+  margin-top: 4rem;
+}
+
 a {
   color: #006633;
   text-decoration: none;
