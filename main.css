@@ -21,6 +21,17 @@ header {
   margin-top: 1rem;
 }
 
+.headshotWrapper {
+  text-align: center;
+}
+
+.headshot {
+  width: 25%;
+  margin: 3rem 0 1.5rem 0;
+  border: gray 0.25rem solid;
+  border-radius: 5%;
+}
+
 .brand,
 .slogan {
   text-align: center;
