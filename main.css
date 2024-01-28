@@ -222,6 +222,12 @@ button {
   }
 }
 
+@media screen and (max-width: 46.875rem) {
+  .pythonLogo {
+    width: 6.25rem;
+  }
+}
+
 @media screen and (max-width: 20.3125rem) {
   .contactForm {
     margin-left: 1rem;
